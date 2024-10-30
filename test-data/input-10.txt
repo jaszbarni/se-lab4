@@ -1,0 +1,10 @@
+# Create a ship with wrong arguments
+GT4500,test,0,0,0
+TORPEDO,ALL # try to fire
+GT4500,1,0,0,0
+TORPEDO,TEST # try to fire with wrong parameters
+ 
+ #empty line
+TEST # test for Unknown command
+GT4500 #testing usiage help
+EXIT

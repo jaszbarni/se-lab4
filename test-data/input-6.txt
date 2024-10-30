@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores with no torpedo
+GT4500,0,1,0,1
+TORPEDO,SINGLE # can't fire single
+TORPEDO,ALL  # can't fire all
