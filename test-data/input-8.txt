@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores with 2 on primary
+GT4500,2,0,0,0
+TORPEDO,SINGLE # fire single from primary
+TORPEDO,SINGLE # fire single from primary

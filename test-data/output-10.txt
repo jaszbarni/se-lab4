@@ -1,0 +1,7 @@
+Invalid numerical arguments passed: For input string: "test" 
+No ship has been initialized
+SUCCESS # init
+Unknown firing mode: 'TEST'
+ #for empty line
+Unknown command: 'TEST'
+usage: GT4500,<PRI_CNT>,<PRI_FAIL_RATE>,<SEC_CNT>,<SEC_FAIL_RATE>

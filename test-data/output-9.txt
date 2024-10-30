@@ -1,0 +1,3 @@
+SUCCESS # init
+SUCCESS # primary fired
+FAIL # cant fire with single again
